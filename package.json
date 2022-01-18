@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "assert": "^1.4.1",
-    "react": "16.2.0",
-    "react-native": "0.52.1",
+    "react": "16.5.0",
+    "react-native": "0.64.0",
     "redux": "^3.7.2",
     "redux-form": "^7.2.1"
   },
